@@ -1,0 +1,11 @@
+mysql_root_password: kenneth
+db_name: wp
+db_user: admin
+db_password: kenneth
+wp_db_host: localhost
+wp_db_prefix: wp_
+
+
+
+
+
