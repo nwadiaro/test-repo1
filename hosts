@@ -1,0 +1,13 @@
+[local]
+localhost ansible_connection=local
+
+[dev]
+# 172.31.54.95
+
+
+
+172.31.47.56  
+
+
+[dev:vars]
+ansible_python_interpreter=/usr/bin/python3 
