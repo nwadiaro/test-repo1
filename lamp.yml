@@ -1,6 +1,6 @@
 ---
 - name: Install LAMP stack on Ubuntu Server
-  hosts: local
+  hosts: dev
   become: yes
 
   vars_files:
