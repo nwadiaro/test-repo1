@@ -6,7 +6,7 @@ localhost ansible_connection=local
 
 
 
-172.31.47.56  
+#172.31.47.56  
 
 
 [dev:vars]
